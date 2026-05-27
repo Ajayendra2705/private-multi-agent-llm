@@ -36,6 +36,12 @@ Mails.txt
 *.pdf
 extract_pdf.py
 Research_Proposal_Ajayendra.txt
+Plan.md
+handoff.md
+
+# AI Tools (keep invisible on GitHub)
+.claude/
+.gemini/
 
 # Editors
 .vscode/
